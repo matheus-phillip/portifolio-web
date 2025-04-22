@@ -1,0 +1,52 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+
+height: 100vh;
+box-sizing: border-box;
+background-color: black;
+color: #f6f6f6;
+
+}
+
+    .titulo-destaque {
+        color: #22D4FD;
+    }
+    
+    .paragrafo-destaque { 
+
+        color:  #f6f6f6;
+        ;
+
+    }
+
+    .apresentação {
+        margin: 23%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between
+    }
+
+    .apresentação__conteudo {
+        width: 615px;
+        height:482px;
+
+    }
+
+    .apresentação__conteudo__titulo {
+        font-size: 36px;
+        
+    }
+
+    .apresentação__conteudo__texto{
+        font-size: 24px;
+
+    }
